@@ -1,7 +1,7 @@
--Pedro Henrique Gonçalves Gomes
--Cursando Análise e Desenvolvimento de Sistemas na FIAP
--Contato: (11) 96610-0100
--E-mail: pedro.gomes.10@outlook.com.br
+-Pedro Henrique Gonçalves Gomes <br>
+-Cursando Análise e Desenvolvimento de Sistemas na FIAP<br>
+-Contato: (11) 96610-0100<br>
+-E-mail: pedro.gomes.10@outlook.com.br<br>
 
 
 <!--
