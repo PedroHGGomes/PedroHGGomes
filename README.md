@@ -1,4 +1,8 @@
-## Hi there 👋
+-Pedro Henrique Gonçalves Gomes
+-Cursando Análise e Desenvolvimento de Sistemas na FIAP
+-Contato: (11) 96610-0100
+-E-mail: pedro.gomes.10@outlook.com.br
+
 
 <!--
 **PedroHGGomes/PedroHGGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
